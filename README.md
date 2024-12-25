@@ -117,12 +117,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-### Key Enhancements:
-- **Features Section**: Lists key features of the app, clearly indicating what users can expect.
-- **Tech Stack**: Highlighted technologies used in the project for easy reference.
-- **Step-by-Step Setup**: Clear instructions on setting up the project, with emphasis on environment variable configuration.
-- **Commands**: Added description for various npm commands like `lint` and `test`.
-- **Screenshots**: Visuals of the app (add your own).
-- **Contributing Section**: Added instructions on how others can contribute to the project.
-- **License**: Ensures clarity regarding licensing and usage.
-
