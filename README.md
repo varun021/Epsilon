@@ -1,5 +1,3 @@
-Here’s the complete and enhanced `README.md` for your Epsilon Authentication System:
-
 ---
 
 # Epsilon Authentication System
@@ -128,4 +126,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Contributing Section**: Added instructions on how others can contribute to the project.
 - **License**: Ensures clarity regarding licensing and usage.
 
-This `README.md` now provides a detailed and professional guide for setting up, running, and contributing to your authentication system.
